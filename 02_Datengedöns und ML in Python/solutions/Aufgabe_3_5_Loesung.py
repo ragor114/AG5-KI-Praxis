@@ -1,0 +1,1 @@
+clf.score(X_train, y_train)
