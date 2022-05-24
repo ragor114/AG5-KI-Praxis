@@ -12,7 +12,7 @@ Bei Fragen oder Problemen mit dem Repository wendet euch am besten direkt an mic
 
 # Sessions
 - [Einführung in Python](/01_Einfuehrung%20in%20Python/README.md) (durchgeführt am 24.04.2022, durch Jannik Wiese)
-- [Einführung in wichtige (Data Science) Bibliotheken](/02_Datengedöns%20und%20ML%20in%20Python/README.md (durchgeführt am 22.05.2022, durch Emma Punsmann)
+- [Einführung in wichtige (Data Science) Bibliotheken](/02_Datengedöns%20und%20ML%20in%20Python/README.md) (durchgeführt am 22.05.2022, durch Emma Punsmann)
 - Einführung in TensorFlow (vrsl. am 05.06.2022, durch Jan Deller)
 - Tiefe Neuronale Netze, ResNets, Autoencoder, Optimizer und Normalization
 - Computer Vision und Convolutional Neural Networks
