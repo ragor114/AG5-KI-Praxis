@@ -1,0 +1,2 @@
+# Einfürung in TensorFlow
+Ziel dieser Session ist es, erste Erfahrungen mit TensorFlow zu sammeln und zu verstehen, wie die Bibliothek in ihren Grundzügen funktioniert. Die Notebooks könnt ihr lokal ausführen oder den Link zum Google Drive aus der WhatsApp-Gruppe nutzen, um sie in Colab auszuführen. Dazu braucht man zwar einen Google-Account und eine Internetverbindung, allerdings hat man auch Zugriffs auf GPUs, was den Trainingsprozess stark beschleunigt. 
